@@ -23,7 +23,7 @@ bash run_scripts/generate_caption.sh
 
 ## Reference
 ```
-@article{M6,
+@inproceedings{M6,
   author    = {Junyang Lin and
                Rui Men and
                An Yang and
@@ -50,8 +50,32 @@ bash run_scripts/generate_caption.sh
                Jie Tang and
                Hongxia Yang},
   title     = {{M6:} {A} Chinese Multimodal Pretrainer},
+  year      = {2021},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
+  pages     = {3251–3261},
+  numpages  = {11},
+  location  = {Virtual Event, Singapore},
+}
+
+@article{M6-T,
+  author    = {An Yang and
+               Junyang Lin and
+               Rui Men and
+               Chang Zhou and
+               Le Jiang and
+               Xianyan Jia and
+               Ang Wang and
+               Jie Zhang and
+               Jiamang Wang and
+               Yong Li and
+               Di Zhang and
+               Wei Lin and
+               Lin Qu and
+               Jingren Zhou and
+               Hongxia Yang},
+  title     = {{M6-T:} Exploring Sparse Expert Models and Beyond},
   journal   = {CoRR},
-  volume    = {abs/2103.00823},
+  volume    = {abs/2105.15082},
   year      = {2021}
 }
 ```
