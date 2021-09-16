@@ -1,3 +1,5 @@
+# MUGE Image Caption Baseline
+
 ## Requirements and Installation
 More details see [fairseq](https://github.com/pytorch/fairseq). Briefly,
 
