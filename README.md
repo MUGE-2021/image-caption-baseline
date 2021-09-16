@@ -8,7 +8,7 @@ More details see [fairseq](https://github.com/pytorch/fairseq). Briefly,
 
 **Installing fairseq**
 ```bash
-git clone xxx
+git clone https://github.com/MUGE-2021/image-caption-baseline
 cd muge_baseline/fairseq
 pip install --editable .
 ```
